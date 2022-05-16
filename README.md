@@ -20,5 +20,6 @@ The report can be viewed from either the pdf file or the pbix file.
 3) HTML - Parsing and Looping to Build DataFrame of WOD Data.ipynb
 4) Flag Columns to Identify Exercises, groupby Date, and Build DataFrame.ipynb
 
-Lastly, there is an xlsx file explaining how exercises have been mapped for reporting purposes. 
+ Lastly, there is an xlsx file explaining how exercises have been mapped for reporting purposes. 
+ 
 5)  Exercise List Dictionary.xlsx
