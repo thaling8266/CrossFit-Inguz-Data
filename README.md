@@ -6,7 +6,7 @@ Visualizes data scraped from CrossFit Inguz website.
 This report uses data scraped from crossfitinguz.com. CrossFit Inguz publishes a WOD (Workout of the Day) to their website daily. The dataset for this report includes WOD data from 1/1/2020 to 2/28/2022 (790) days.
 
 
-I've used the Requests package for Python to make an HTTP GET request from crossfitinguz.com and the Beautiful Soup package to parse the html of the response. Lastly, I used pandas to wrangle the data into useable data sets to produce the visuals for this report. This was done using Jupyter Notebook.
+I've used the Requests package for Python to make an HTTP GET request from crossfitinguz.com and the Beautiful Soup package to parse the html of the response. Next I used pandas to wrangle the data into useable data sets. This was done using Jupyter Notebook. Finally, the data was brought into Power BI to produce the visuals for this report.
 
 ## Documents:
 
