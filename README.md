@@ -14,6 +14,7 @@ This repository holds five uploaded documents.
 The report can be viewed from either the pdf file or the pbix file. 
 1) Power BI Export.pdf 
 2) Power BI.pbix : Power BI source file
+ There are two ipynb files showing python code used to scrape and prepare data.
 3) HTML - Parsing and Looping to Build DataFrame of WOD Data.ipynb
 4) Flag Columns to Identify Exercises, groupby Date, and Build DataFrame.ipynb
 
